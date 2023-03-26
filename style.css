@@ -1,0 +1,19 @@
+.read-less-btn{
+    color:blue;
+}
+
+.read-more-text{
+    display:block;
+}
+
+.read-more-text--show{
+    display: none;
+}
+
+.h1{
+    font-size: 20px;
+}
+
+.p{
+    font-size: 60px;
+}
